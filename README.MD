@@ -1,2 +1,1 @@
-#Hello from local
-## This is amazing project 
+#It's personal project for University and DevOps line
